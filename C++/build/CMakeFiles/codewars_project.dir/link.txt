@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/codewars_project.dir/main.cpp.o -o codewars_project 
