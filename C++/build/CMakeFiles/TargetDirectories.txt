@@ -1,0 +1,3 @@
+/home/aushalten12/Documents/codewars/C++/build/CMakeFiles/codewars_project.dir
+/home/aushalten12/Documents/codewars/C++/build/CMakeFiles/edit_cache.dir
+/home/aushalten12/Documents/codewars/C++/build/CMakeFiles/rebuild_cache.dir
