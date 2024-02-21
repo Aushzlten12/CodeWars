@@ -1,4 +1,5 @@
 #include "./End.cpp"
+#include "./HighestScoringWord.cpp"
 #include "./Reverse.cpp"
 #include "./RomanNumerals.cpp"
 #include "./highAndLow.cpp"
@@ -18,5 +19,8 @@ int main(int argc, char *argv[]) {
   std::cout << maxAndmin << std::endl;
   bool value = valid_braces("([{}])");
   std::cout << value << std::endl;
+  std::string high =
+      highestScoringWord("what time are we climbing up the volcano");
+  std::cout << high << std::endl;
   return 0;
 }
